@@ -60,24 +60,24 @@ welcome = """
     </style>
 </head>
 <body>
-    <h1>Jenish Revaldo C   -  Data Analyst</h1>
+    <h1>Naveen J   -  Data Scientist</h1>
   
     <p>Driven and adaptable Data Analyst with a passion for continuous learning and leadership. Skilled in mathematics, statistics, and programming, I excel at solving complex problems and extracting valuable insights from data. Committed to staying updated on industry trends to deliver impactful data-driven solutions.</p>
     
     <div class="contact">
         <h2>Contact Information</h2>
-        <p>Email: jenishrev0603@gmail.com</p>
-        <p>Phone: 7358941365</p>
-        <p>Location: Kanyakumari, India</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/jenish-revaldo-c-004670245">linkedin.com/in/jenish-revaldo-c-004670245</a></p>
-        <p>GitHub: <a href="https://github.com/JenishRevaldo">github.com/JenishRevaldo</a></p>
+        <p>Email: naveenantony29@gmail.com</p>
+        <p>Phone: 9080485384</p>
+        <p>Location:Dindigul, India</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/naveen-j-29ba07156/">linkedin.com</a></p>
+        <p>GitHub: <a href="https://github.com/naveenj001">github.com/naveenj001</a></p>
     </div>
 
     <div class="education">
         <h2>Education</h2>
-        <h3>B.Sc. Mathematics</h3>
+        <h3>B.Sc. Actuarial Science</h3>
         <p>Loyola College</p>
-        <p>06/2019 - 04/2022, Chennai</p>
+        <p>06/2017 - 05/2020, Chennai</p>
         <p>Graduate with a first-class degree.</p>
 
         <h3>M.Sc. Data Science</h3>
@@ -88,7 +88,7 @@ welcome = """
 
     <div class="projects">
         <h2>Projects</h2>
-       <p>IPL Analysis through Power BI</p>
+       <p>Netflix Analysis through Power BI</p>
         <p>Supervised-Unsupervised integration for Breast Cancer diagnosis</p>
     </div>
 
